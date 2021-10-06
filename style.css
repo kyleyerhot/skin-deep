@@ -1,0 +1,19 @@
+body {
+	margin: 25px;
+	font-family: "Helvetica", sans-serif;
+}
+
+a {
+	color: #0000ff;
+}
+
+button {
+	margin: 25px;
+}
+
+footer {
+	display: flex;
+	text-align: center;
+	font-size: 10px;
+	padding: 5px;
+}
